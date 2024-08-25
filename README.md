@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my Masters in CS @UNCC<br>👯 I’m looking to collaborate with people with Full Stack and Data Science Exp.<br>🤝 I’m looking for help to learn ML / DS<br>🌱 I’m currently learning Machine Learning , Analytics and Ops<br>⚡ Fun fact : I love to binge watch 
+🔭 I’m currently pursuing my Masters in CS @UNCC<br>👯 I’m looking for Summer Internship in Full Stack or Data Science Roles.<br>🤝 I’m looking for help to learn ML / DS<br>🌱 I’m currently learning Machine Learning , Analytics and Ops<br>⚡ Fun fact : I love to binge watch 
 
 
 ## 🌐 Socials:
